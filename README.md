@@ -1,5 +1,5 @@
 ### Hi there 👋
-[！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = zzfn）]（https://github.com/anuraghazra/github-readme-stats）
+[![Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = zzfn）]（https://github.com/anuraghazra/github-readme-stats）
 ![1605675881360fVqv5t](https://cdn.zzfzzf.com//1605675881360fVqv5t.jpg)
 <!--
 **zzfn/zzfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
